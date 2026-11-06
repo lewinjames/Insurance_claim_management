@@ -1,0 +1,8 @@
+{
+  "name": "Insurance Claim Management System",
+  "description": "Full stack MERN Insurance Claim Management application for college internal evaluation with roles for Admin, Claim Officer, and Policyholder, complete with JWT auth, CRUD operations, ER diagram, and Postman API collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
